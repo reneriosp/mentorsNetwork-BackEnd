@@ -1,12 +1,16 @@
 {
-  "name": "mentorsNetwork-BackEnd",
-  "version": "1.0.0",
-  "description": "backend server for ethan evans' mentor network website",
-  "main": "index.js",
-  "repository": "git@github.com:reneriosp/mentorsNetwork-BackEnd.git",
-  "author": "Karmanya Aggarwal <karmanya@doctorc.in>",
-  "license": "MIT",
+  "name": "mentorsnetwork-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
   "dependencies": {
-    "express": "^4.17.1"
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
   }
 }
