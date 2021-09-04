@@ -1,0 +1,3 @@
+const AWS_CREDS = {
+    
+}

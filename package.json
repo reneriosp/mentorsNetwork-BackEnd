@@ -13,7 +13,9 @@
     "express": "~4.17.0",
     "express-openid-connect": "^2.5.0",
     "morgan": "~1.9.1",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.10",
+    "uuid": "^8.3.2"
+
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
